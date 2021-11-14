@@ -17,7 +17,7 @@ const startGame = () => {
   statsDiv.innerHTML = "";
   style="display:none"
  $("#startGameBtn").on("click", function(){
- $("#inputid").show();
+ $("#mobile").show();
 
 
 
