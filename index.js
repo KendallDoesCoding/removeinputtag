@@ -15,6 +15,9 @@ const startGame = () => {
   startGameBtn.classList.add("hidden");
   typingDiv.innerHTML = "";
   statsDiv.innerHTML = "";
+  style="display:none"
+ $("#startGameBtn").on("click", function(){
+ $("#inputid").show();
 
 
 
